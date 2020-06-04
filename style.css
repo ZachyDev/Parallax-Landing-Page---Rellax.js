@@ -51,3 +51,10 @@ ul {
 .btn:hover {
 	transform: scale(0.98);
 }
+.primary-text {
+	color: var(--primary-color);
+}
+
+.secondary-text {
+	color: var(--secondary-color);
+}
